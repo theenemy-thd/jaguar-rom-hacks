@@ -39,7 +39,17 @@ Controls in the menu: Up/Down pick a line, A/B/C/Right next value, Left previous
 
 The cheats only take effect in a real game; the attract demos play exactly as in the original. If any cheat is on (including a start stage other than 1), your score won't be entered in the Hall of Aces, so the saved table stays honest. Autofire is a game option, not a cheat, so it doesn't block saving.
 
-![Autofire](autofire.png)
+## Screenshots
+
+| Trainer menu, everything on | Stage 1: max power + autofire ON |
+|---|---|
+| ![Trainer menu](screenshots/trainer-menu.png) | ![Stage 1, max power, autofire ON](screenshots/stage1-max-power-autofire.png) |
+| **Start stage 5, autofire TURBO** | **Stage 5: max power + autofire TURBO** |
+| ![Menu with start stage 5 and TURBO](screenshots/menu-stage5-turbo.png) | ![Stage 5, TURBO autofire](screenshots/stage5-turbo-autofire.png) |
+| **Stage 1, further in** | **Stage 1 with autofire** |
+| ![Stage 1 jungle](screenshots/stage1-jungle.png) | ![Autofire](autofire.png) |
+
+Compare the two autofire speeds: ON (top right) keeps to the game's own fire rate, while TURBO (middle right) fills the screen with bullets. That's the sprite load described below.
 
 ## How it was done
 
