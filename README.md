@@ -6,6 +6,8 @@ Trainers and patches for Atari Jaguar games. Each game has its own folder with I
 |---|---|---|
 | [Raiden (World)](raiden/) | V1 | Trainer menu: infinite lives, infinite bombs, invulnerable, max power, start stage 1-8, and autofire (OFF / ON / TURBO). Also an autofire-only patch. Runs on real hardware at the original 2 MB. |
 
+> **Emulators need the official Atari Jaguar BIOS (boot ROM)** to run these patched ROMs. Real hardware and flash carts already have it.
+
 ## Raiden
 
 <p>
