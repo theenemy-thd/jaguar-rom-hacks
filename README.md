@@ -11,8 +11,12 @@ Trainers and patches for Atari Jaguar games. Each game has its own folder with I
 ## Raiden
 
 <p>
-  <img src="raiden/menu.png" alt="Raiden trainer menu" width="48%">
-  <img src="raiden/autofire.png" alt="Raiden in game with autofire" width="48%">
+  <img src="raiden/screenshots/trainer-menu.png" alt="Raiden trainer menu" width="48%">
+  <img src="raiden/screenshots/stage1-max-power-autofire.png" alt="Stage 1 with max power and autofire ON" width="48%">
+</p>
+<p>
+  <img src="raiden/screenshots/menu-stage5-turbo.png" alt="Menu set to start on stage 5 with TURBO autofire" width="48%">
+  <img src="raiden/screenshots/stage5-turbo-autofire.png" alt="Stage 5 with max power and TURBO autofire" width="48%">
 </p>
 
 Full details, downloads and the write-up on how it was done: [raiden/](raiden/)
