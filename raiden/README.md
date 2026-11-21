@@ -21,6 +21,8 @@ Only IPS patches are here, never ROMs. Apply them to your own dump of the clean 
 
 Rev A (`31812799`) is not supported. Its packed data differs throughout.
 
+> **Needs the official Atari Jaguar BIOS (boot ROM) in emulators.** The patched ROM uses the homebrew universal header (see below), so emulators must boot it through the real Jaguar boot ROM. Without the BIOS, emulators that skip it show only a black screen. Real hardware and flash carts already have it.
+
 ## The trainers
 
 | Line | Values | What it does |
